@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint');
+img{
+  width: 700px;
+}
+
+body {
+  background-image: url("https://img.freepik.com/foto-gratis/harina-blanca-con-huevos-en-la-mesa-de-la-cocina_23-2147872734.jpg?size=626&ext=jpg");
+background-size: cover;
+  font-family: 'Finger Paint', cursive;}
+ a{
+  color: black}
+a{
+  display: block;
+}
+*{margin: 0px;
+  padding: 0px;
+}
+h1:hover{
+  transition: 3s;
+  transform: translate(50px)
+}
+h2:hover{
+  transition: 2s;
+  transform: translate(50px)
+}
+h3:hover{
+  transition: 1s;
+  transform: translate(50px)
+    
